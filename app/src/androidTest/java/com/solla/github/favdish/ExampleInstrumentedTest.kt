@@ -1,4 +1,4 @@
-package com.tutorials.eu.favdish
+package com.solla.github.favdish
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

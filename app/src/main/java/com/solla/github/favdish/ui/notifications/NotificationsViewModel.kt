@@ -1,4 +1,4 @@
-package com.tutorials.eu.favdish.ui.notifications
+package com.solla.github.favdish.ui.notifications
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
